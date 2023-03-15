@@ -9,5 +9,6 @@ public class FamilyTree {
              System.out.println("HERE IS LOG");
               System.out.println("HERE IS LOG");
                System.out.println("HERE IS LOG");
+        Tested and now fix conflict
     }
 }
