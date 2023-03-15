@@ -15,6 +15,6 @@ sdf
             System.out.println("HERE IS LOG");
              System.out.println("HERE IS LOG");
               System.out.println("HERE IS LOG");
-               System.out.println("HERE IS LOG");*/
+        Fixed conflicts and now ready merge*/
     }
 }
